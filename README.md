@@ -4,11 +4,11 @@ A Swift wrapper for the ESpeakNG text-to-speech library, providing phonemization
 
 ## Features
 
-- 🎯 Protocol-based design for flexible voice mapping
-- 🌍 Support for multiple languages/dialects (en-US, en-GB, ja, zh-CN, fr, hi, it, es, pt-BR)
-- 📦 Embedded ESpeakNG.xcframework (iOS & macOS)
-- 🔧 Configurable bundle identifier for different integration scenarios
-- ✅ Type-safe voice mapping via protocols
+- Protocol-based design for flexible voice mapping
+- Supports multiple languages and dialects including en-US, en-GB, ja, zh-CN, fr, hi, it, es, and pt-BR
+- Includes ESpeakNG.xcframework for iOS and macOS
+- Configurable bundle identifier for different integration scenarios
+- Type-safe voice mapping via protocols
 
 ## Installation
 
@@ -83,4 +83,3 @@ For Kokoro TTS integration, see the example extension in the mlx-audio package.
 ## License
 
 This package wraps ESpeakNG, which is licensed under the GNU General Public License v3.
-
