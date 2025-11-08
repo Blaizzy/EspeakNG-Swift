@@ -1,0 +1,21 @@
+EspeakNG-Swift
+Copyright (c) 2025
+
+This software includes and distributes eSpeak NG, which is:
+Copyright (C) 1995-2024 by Jonathan Duddington and contributors
+
+eSpeak NG is licensed under the GNU General Public License version 3 (GPL-3.0).
+The full text of the GPL-3.0 license can be found at:
+https://www.gnu.org/licenses/gpl-3.0.html
+
+eSpeak NG Project: https://github.com/espeak-ng/espeak-ng
+
+---
+
+This Swift wrapper (EspeakNG-Swift) provides a convenient interface to the
+eSpeak NG text-to-speech library. The wrapper code itself is provided as-is,
+but note that eSpeak NG (included as a binary framework) is subject to the
+GPL-3.0 license terms.
+
+Any application using this package must comply with the GPL-3.0 license
+requirements for the eSpeak NG library.
